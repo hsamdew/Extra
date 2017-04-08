@@ -21,4 +21,3 @@ cd Extra
 
 screen ./Extra.sh
 
-@userinfobot
