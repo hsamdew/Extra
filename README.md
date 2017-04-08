@@ -16,7 +16,9 @@ cd Extra && ./Extra.sh
 ***********************
 
 * **اوتو لانچ جهت جلو گیری خاموشی**
+
 cd Extra
+
 screen ./Extra.sh
 
 @userinfobot
