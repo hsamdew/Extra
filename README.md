@@ -3,18 +3,20 @@
 
 git clone https://github.com/MeGaReborn/Extra.git && cd Extra && chmod +x Extra.sh && ./Extra.sh install
 
-آموزش سودو کردن
+* **sudo kardan dar Bot**
 
 bot/bot.lua line 4 id bot id sudo line 87
 
 plufins/tools.lua  line 2 id sudo
 
-redis-server
-
+ * **run bot**
+ 
 cd Extra && ./Extra.sh
 
 ***********************
 
-c9.io
+* **اوتو لانچ جهت جلو گیری خاموشی**
+cd Extra
+screen ./Extra.sh
 
 @userinfobot
