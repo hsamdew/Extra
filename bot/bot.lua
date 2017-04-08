@@ -88,7 +88,7 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》Beyond Reborn v1
+    info_text = [[》@botreborn_ch admin:@boydev_bot v5
 ]],
   }
   serialize_to_file(config, './data/config.lua')
