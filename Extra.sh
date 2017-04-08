@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BDReborn
+cd $HOME/Extra
 
 install() {
 	    cd tg
@@ -34,13 +34,13 @@ if [ ! -f ./tg/tgcli ]; then
     exit 1
 fi
    echo -e "\033[38;5;208m"
-   echo -e "     > BDReborn Source :D                        "
+   echo -e "     > Extra Source :D                        "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
    ./tg/tgcli -s ./bot/bot.lua $@
 fi
 
-# Now All Argument Support after ./beyond.sh !
+# Now All Argument Support after ./Extra.sh !
 #	Arguments :
 #			#			#			#			#			#			#			#			#			#
 #  --phone/-u                           specify username (would not be asked during authorization)
@@ -70,8 +70,8 @@ fi
 #  --permanent-peer-ids                 use permanent peer ids
 #			#			#			#			#			#			#			#			#			#
 #Example To launch with second profile :
-# ./beyond.sh -p second-profile
+# ./Extra.sh -p second-profile
 
 #			  OR
 
-# ./beyond.sh --profile second-profile
+# ./Extra.sh --profile second-profile
