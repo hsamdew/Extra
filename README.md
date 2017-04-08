@@ -1,8 +1,6 @@
 # [EXTRA](https://t.me/BotReborn_Ch)
 * **Install Bot**
-`````sh
-yon.ir/V9b5
-`````
+
 git clone https://github.com/MeGaReborn/Extra.git && cd Extra && chmod +x Extra.sh && ./Extra.sh install
 
 آموزش سودو کردن
